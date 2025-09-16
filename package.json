@@ -1,0 +1,17 @@
+{
+  "name": "task-1",
+  "version": "1.0.0",
+  "description": "There is students data",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "umar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0",
+    "mongoos": "^0.0.1-security",
+    "mongoose": "^8.18.1"
+  }
+}
